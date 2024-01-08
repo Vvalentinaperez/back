@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Top con Brillos",
+      "offer": true,
+      "category": "top",
+      "stock": 1,
+      "color": ["negro"],
+      "price": 6000,
+      "image": "",
+      "description": ""
+    }
+  ]
+}
