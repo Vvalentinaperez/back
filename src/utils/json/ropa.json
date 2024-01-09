@@ -2,14 +2,223 @@
   "products": [
     {
       "id": 1,
-      "name": "Top con Brillos",
-      "offer": true,
-      "category": "top",
+      "name": "Remera Basica",
+      "offer": false,
+      "category": "Remera",
+      "stock": 1,
+      "color": ["gris"],
+      "price": 6000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0230.jpg?alt=media&token=7aab482e-e4be-4765-858e-4350a32ed163",
+      "description": "Descubre la esencia de la comodidad con nuestra remera básica de algodón, tu compañera perfecta para la vida cotidiana. Este es más que un básico; es una declaración de estilo sin esfuerzo que se integra perfectamente a cada momento de tu día."
+    },
+    {
+      "id": 2,
+      "name": "Top con cierre",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["blanco"],
+      "price": 6500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0231.jpg?alt=media&token=9afbd2bd-5965-49e9-b57d-b3ad2e87e922",
+      "description": "Transforma tu estilo con nuestro top con cierre corto blanco, una pieza versátil que eleva instantáneamente tu apariencia. Con un diseño que combina simplicidad y sofisticación, este top se convierte en el lienzo perfecto para expresar tu estilo único."
+    },
+    {
+      "id": 3,
+      "name": "Top con cierre",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["negro"],
+      "price": 6500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0232.jpg?alt=media&token=df29a2d7-6d62-4997-ba18-93caecc923ec",
+      "description": "Renueva tu guardarropa con nuestro top rayado azul, una elección fresca y divertida que inyecta vitalidad a tu conjunto diario. Los tonos de azul se entrelazan en rayas juguetonas, creando un look dinámico que captura la esencia de la diversión y la moda."
+    },
+    {
+      "id": 4,
+      "name": "Top sin Mangas",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["azul", "blanco"],
+      "price": 6500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0234.jpg?alt=media&token=e75889cb-7ee1-444c-92c9-3bdd4e343e7d",
+      "description": "Renueva tu guardarropa con nuestro top rayado negro, una elección fresca y divertida que inyecta vitalidad a tu conjunto diario. Los tonos de negros se entrelazan en rayas juguetonas, creando un look dinámico que captura la esencia de la diversión y la moda."
+    },
+    {
+      "id": 5,
+      "name": "Top sin Mangas",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["negro", "blanco"],
+      "price": 6500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0235.jpg?alt=media&token=18aff6cc-8566-4a81-9e14-768c2a1c9603",
+      "description": "Renueva tu guardarropa con nuestro top rayado negro, una elección fresca y divertida que inyecta vitalidad a tu conjunto diario. Los tonos de negros se entrelazan en rayas juguetonas, creando un look dinámico que captura la esencia de la diversión y la moda."
+    },
+    {
+      "id": 6,
+      "name": "Top sin Mangas",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["rosa", "blanco"],
+      "price": 6500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0236.jpg?alt=media&token=1fbc9cf5-cd1a-48de-8095-efea673d0b60",
+      "description": "Renueva tu guardarropa con nuestro top rayado rosa, una elección fresca y divertida que inyecta vitalidad a tu conjunto diario. Los tonos rosas se entrelazan en rayas juguetonas, creando un look dinámico que captura la esencia de la diversión y la moda."
+    },
+    {
+      "id": 7,
+      "name": "Top con Mangas",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["marron", "blanco"],
+      "price": 7000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0238.jpg?alt=media&token=0584accd-2336-4465-a5a1-8a262084e16b",
+      "description": "Introduce un toque de calidez y elegancia relajada a tu estilo con nuestro top tipo remera con rayas marrón. Las rayas en tonos terrosos crean un patrón sutil, mientras que el diseño de tipo remera asegura comodidad sin sacrificar un ápice de estilo."
+    },
+    {
+      "id": 8,
+      "name": "Top con Mangas",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["verde", "blanco"],
+      "price": 7000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0239.jpg?alt=media&token=43fd0b09-260a-4737-834e-2595d9c74bb4",
+      "description": "Refresca tu estilo con nuestro top tipo remera con rayas verdes, una pieza que infunde vitalidad y un toque desenfadado a tu armario. Las rayas en tonos verdes crean un patrón alegre, mientras que el diseño tipo remera garantiza una apariencia casual y cómoda."
+    },
+    {
+      "id": 9,
+      "name": "Top con Mangas",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["celeste", "blanco"],
+      "price": 7000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0240.jpg?alt=media&token=d1539b93-c558-421c-af1d-dcb88f4881e3",
+      "description": "Deslízate en la serenidad del cielo con nuestro top tipo remera con rayas celestes, una prenda que fusiona la elegancia etérea con un estilo relajado. Las rayas en tonos celestes crean un patrón suave, mientras que el diseño tipo remera garantiza una apariencia casual y cómoda."
+    },
+    {
+      "id": 10,
+      "name": "Musculosa Basica",
+      "offer": false,
+      "category": "Musculosa",
+      "stock": 1,
+      "color": ["violeta"],
+      "price": 7000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0241.jpg?alt=media&token=4b627e91-552d-4dbf-a6fc-3d1c2b3eb38c",
+      "description": "Eleva tu estilo cotidiano con nuestra musculosa básica en violeta, diseñada para abrazar tu figura con elegancia y un toque de vibrante personalidad. Esta prenda esencial combina comodidad y estilo, ofreciendo una base perfecta para expresar tu autenticidad."
+    },
+    {
+      "id": 11,
+      "name": "Musculosa Basica",
+      "offer": false,
+      "category": "Musculosa",
+      "stock": 1,
+      "color": ["negro"],
+      "price": 7000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0242.jpg?alt=media&token=20920a78-68c4-42bf-b418-bf8e528cb910",
+      "description": "Explora la esencia de la elegancia atemporal con nuestra musculosa básica en negro, una prenda que combina ajuste perfecto con versatilidad ilimitada. Este esencial en negro se convierte en la base ideal para crear looks desde lo casual hasta lo sofisticado."
+    },
+    {
+      "id": 12,
+      "name": "Top de tipo corcet",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["negro"],
+      "price": 3500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0245.jpg?alt=media&token=d901dd4b-af64-4d8d-b2ad-eb093ca5b1af",
+      "description": "Explora la esencia de la elegancia atemporal con nuestra musculosa básica en negro, una prenda que combina ajuste perfecto con versatilidad ilimitada. Este esencial en negro se convierte en la base ideal para crear looks desde lo casual hasta lo sofisticado."
+    },
+    {
+      "id": 13,
+      "name": "Crop Top Golden",
+      "offer": false,
+      "category": "Crop Top",
+      "stock": 1,
+      "color": ["blanco"],
+      "price": 6000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0246.jpg?alt=media&token=31f2478b-5f27-4926-aa56-24c15e13255c",
+      "description": "Haz una declaración de moda con nuestro crop top blanco, una prenda que combina frescura y estilo en cada centímetro. Diseñado para resaltar tu figura y mantenerte a la vanguardia de la moda, este crop top es la elección perfecta para los días soleados y las noches vibrantes."
+    },
+    {
+      "id": 14,
+      "name": "Remera At The Moment",
+      "offer": false,
+      "category": "Remera",
+      "stock": 1,
+      "color": ["marron"],
+      "price": 8000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0248.jpg?alt=media&token=f4cec46a-6a27-4e07-8efc-8db1df29b3e9",
+      "description": "Añade un toque de calidez a tu estilo con nuestra remera marrón, una prenda que encapsula la elegancia terrosa y la versatilidad en cada puntada. Desde looks casuales hasta combinaciones más refinadas, esta remera se convierte en un lienzo para expresar tu estilo único."
+    },
+    {
+      "id": 15,
+      "name": "Top con cuello recto",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["blanco"],
+      "price": 6500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0249.jpg?alt=media&token=17e0d27e-a94a-400a-8154-782014108911",
+      "description": "Haz una declaración de estilo con nuestro top de cuello recto blanco, una prenda que fusiona el minimalismo moderno con la elegancia atemporal. Este top se convierte en un lienzo en blanco para expresar tu estilo único con simplicidad y sofisticación."
+    },
+    {
+      "id": 16,
+      "name": "Top con cuello recto",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["negro"],
+      "price": 6500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0250.jpg?alt=media&token=8b89f306-25ea-447f-943f-211a5d4f499b",
+      "description": "Explora la esencia de la elegancia atemporal con nuestro top de cuello recto negro, una prenda que fusiona la versatilidad con un toque moderno. Este top se convierte en un clásico contemporáneo, proporcionando una base sofisticada para tus looks diarios."
+    },
+    {
+      "id": 17,
+      "name": "Top sin mangas",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["celeste"],
+      "price": 3500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0251.jpg?alt=media&token=707bd39e-4bec-4ff8-bdf0-55b1fae9c528",
+      "description": "Dale un toque de frescura a tu colección con nuestro top sin mangas celeste, una prenda que captura la esencia de la elegancia relajada y el encanto veraniego. Este top se convierte en un lienzo suave y versátil para expresar tu estilo sin esfuerzo."
+    },
+    {
+      "id": 18,
+      "name": "Top con cuello recto",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["violeta"],
+      "price": 6500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0254.jpg?alt=media&token=36bc89ed-cbe3-455a-a78e-b11201549a03",
+      "description": "Eleva tu estilo con nuestro top de cuello recto en violeta, una prenda que combina la elegancia con la frescura vibrante del color. Este top se convierte en una declaración de moda sofisticada, proporcionando un toque distintivo a tu presencia."
+    },
+    {
+      "id": 19,
+      "name": "Remera At The Moment",
+      "offer": false,
+      "category": "Remera",
+      "stock": 1,
+      "color": ["negro"],
+      "price": 3500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0257.jpg?alt=media&token=5252b49b-ea69-4711-b0e8-d8279b279224",
+      "description": "Añade un toque de misterio y estilo a tu guardarropa con nuestra remera negra con estampa, una prenda que fusiona la elegancia del negro con la expresividad de una estampa única. Esta remera se convierte en una pieza esencial para aquellos que buscan destacar su personalidad con sofisticación."
+    },
+    {
+      "id": 20,
+      "name": "Crop Top Golden",
+      "offer": false,
+      "category": "Crop Top",
       "stock": 1,
       "color": ["negro"],
       "price": 6000,
-      "image": "",
-      "description": ""
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0259.jpg?alt=media&token=7158765b-6e06-4f2c-93ec-eead340fee2b",
+      "description": "Haz una declaración de moda audaz con nuestro crop top negro con estampa blanca, una prenda que fusiona el estilo desenfadado con un toque de elegancia. Este crop top es esencial para quienes buscan destacar con actitud y originalidad."
     }
   ]
 }
