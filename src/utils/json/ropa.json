@@ -219,6 +219,72 @@
       "price": 6000,
       "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0259.jpg?alt=media&token=7158765b-6e06-4f2c-93ec-eead340fee2b",
       "description": "Haz una declaración de moda audaz con nuestro crop top negro con estampa blanca, una prenda que fusiona el estilo desenfadado con un toque de elegancia. Este crop top es esencial para quienes buscan destacar con actitud y originalidad."
+    },
+    {
+      "id": 21,
+      "name": "Crop Top Golden",
+      "offer": false,
+      "category": "Crop Top",
+      "stock": 1,
+      "color": ["celeste"],
+      "price": 6000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0262.jpg?alt=media&token=e1109da3-5c46-4f09-b756-fbc5620e3cb0",
+      "description": "Este crop top es ideal para los días cálidos o para crear looks informales con un toque de encanto. La tela suave y ligera asegura una sensación de frescura durante todo el día, mientras que el diseño crop resalta tu figura de manera favorecedora."
+    },
+    {
+      "id": 22,
+      "name": "Top Clasico Celeste",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["celeste"],
+      "price": 3500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0264.jpg?alt=media&token=0aaa0ece-7fd8-46e5-aeed-56035ab6bf9f",
+      "description": "Confeccionado con tejidos de alta calidad, este top ofrece una sensación suave y lujosa que se adapta cómodamente a tu figura. El corte favorecedor resalta tus mejores atributos, creando una silueta elegante y femenina."
+    },
+    {
+      "id": 23,
+      "name": "Top Clasico Marron",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["marron"],
+      "price": 3500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0265.jpg?alt=media&token=84d6e2e9-706e-4004-8114-0e0580d416d3",
+      "description": "El tono marrón agrega una dosis de calidez y versatilidad a tu colección. Este top es ideal para ocasiones en las que buscas un toque más terroso y atemporal. Combínalo con tus jeans favoritos para un look casual o con pantalones de vestir para una apariencia más pulida."
+    },
+    {
+      "id": 24,
+      "name": "Top sin Mangas",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["blanco"],
+      "price": 7000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0266.jpg?alt=media&token=7733c90c-fae7-4dbd-8f02-a5a844a427df",
+      "description": "Descubre la frescura y la sofisticación con nuestro Top sin Mangas Blanco, acentuado por un encantador detalle abierto en el frente. Este diseño audaz y chic añade un toque distintivo a tu atuendo, mientras que el blanco puro agrega luminosidad y estilo a tus días soleados."
+    },
+    {
+      "id": 25,
+      "name": "Top sin Mangas",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["negro"],
+      "price": 7000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0268.jpg?alt=media&token=b1891d1c-2084-41b2-8a0b-49c70d53453b",
+      "description": "Experimenta la elegancia con nuestro Top sin Mangas Negro, destacado por un cautivador detalle abierto en el frente. Este diseño chic y audaz combina la simplicidad del negro con un toque de intriga, creando una prenda versátil que se adapta a cualquier ocasión."
+    },
+    {
+      "id": 26,
+      "name": "Top sin Mangas",
+      "offer": false,
+      "category": "Top",
+      "stock": 1,
+      "color": ["marron"],
+      "price": 7000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FIMG-20231217-WA0269.jpg?alt=media&token=c6b8e800-018b-43da-9e86-7e0f95a946bc",
+      "description": "El tono marrón agrega un toque terroso y acogedor, perfecto para cualquier temporada. El detalle abierto en el frente eleva el diseño, aportando un elemento de estilo distintivo. Combínalo con pantalones de mezclilla para un look casual o con una falda lápiz para una ocasión más formal."
     }
   ]
 }
