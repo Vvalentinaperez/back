@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mochila Basica",
+      "offer": false,
+      "category": "Mochilas",
+      "color": ["negro"],
+      "stock": 1,
+      "price": 15000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2F2020%20Waterproof%20Nylon%20Backpacks%20Women%20Bag%20Fashion%20Backpack%20For%20Women%20Big%20Small%20Travel%20Backpack%20Female%20Shoulder%20Bag%20Mochilas%20-%20Black%20_%2030cm%20x15cm%20x40cm.jpeg?alt=media&token=4500f89c-0569-4091-87c5-4fa9b0ca00f8",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 2,
+      "name": "Billetera con Cierre Simple",
+      "offer": false,
+      "category": "Billeteras",
+      "color": ["rosa"],
+      "stock": 1,
+      "price": 8000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FCartera%20peque%C3%B1a%20con%20dise%C3%B1o%20de%20tr%C3%A9bol%20y%20bola%2C%20cartera%20de%20bolsillo%2C%20monedero%20peque%C3%B1o%20con%20ventana%20de%20identificaci%C3%B3n%2C%20cartera%20plegable%20para%20mujer%2C%20mini%20delgada%2C%20ligera%2C%20con%20cremallera%2C%20tarjeta%20de%20cr%C3%A9dito%2C%20dinero%20en%20ef.jpeg?alt=media&token=750153d4-4b2f-48ce-abd2-2acbf8bbb641",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 3,
+      "name": "Neceser Triple Crudo",
+      "offer": false,
+      "category": "Neceser",
+      "color": ["marron"],
+      "stock": 1,
+      "price": 8000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2Fdescarga%20(13).jpeg?alt=media&token=b47026b2-2996-49fa-95e6-6917ebe342c2",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 4,
+      "name": "Morral Basico Pequeño",
+      "offer": false,
+      "category": "Morral",
+      "color": ["negro"],
+      "stock": 1,
+      "price": 9000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FMen%20Knot%20Decor%20Crossbody%20Bag.jpeg?alt=media&token=6541c184-d8d3-484a-b9dc-7ab091cadfc2",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 5,
+      "name": "Cartera The Tote Bag",
+      "offer": false,
+      "category": "Cartera",
+      "color": ["blanca"],
+      "stock": 1,
+      "price": 9000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2Fdescarga%20(14).jpeg?alt=media&token=ed954b74-249d-4748-a6ca-d62776df0f4b",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 6,
+      "name": "Cartuchera Puffer",
+      "offer": false,
+      "category": "Cartuchera",
+      "color": ["blanca"],
+      "stock": 1,
+      "price": 9000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FPuffer%20pouch.jpeg?alt=media&token=f30a5b09-fd0e-4c3f-b81f-802aefddecac",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    }
+  ]
+}
