@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Broche",
+      "offer": false,
+      "category": "Broches",
+      "stock": 1,
+      "color": ["violeta"],
+      "price": 900,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FHuge%20Rectangle%20Hair%20Claws%20for%20Women%2C%20Matte%20Hair%20Claw%20Clips%2C%20Girlish%20Hair%20Clip%2C%20Big%20Hollow%20Hair%20Clamp.jpeg?alt=media&token=9e67c341-f239-4584-ac36-cf0d4660cb0b",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 2,
+      "name": "Vincha",
+      "offer": false,
+      "category": "Vinchas",
+      "stock": 1,
+      "price": 700,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FDiadema%20minimalista%20unicolor.jpeg?alt=media&token=119f7418-e855-4ec1-aabd-b295c20521a7",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 3,
+      "name": "Argollas Trenzadas",
+      "offer": false,
+      "category": "Aritos",
+      "type": "Acero Blanco",
+      "stock": 1,
+      "price": 1500,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FDavid%20Yurman%20_%20Shop%20Earrings%20for%20Women.jpeg?alt=media&token=386a2f71-b8d4-48be-bce1-24b76dcb3c57",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 4,
+      "name": "Anillo Trenzado",
+      "offer": false,
+      "category": "Anillos",
+      "type": "Acero Blanco",
+      "stock": 1,
+      "price": 5000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FDNA%20Molecule%20Double%20Helix%20Ring%20-%20925%20Sterling%20Silver.jpeg?alt=media&token=4345a6a0-4ce1-4c5f-ad25-5785709de435",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 5,
+      "name": "Collar de Luna",
+      "offer": false,
+      "category": "Anillos",
+      "type": "Acero Blanco",
+      "stock": 1,
+      "price": 3000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FCrystal%20%26%20Moon%20Layered%20Necklace.jpeg?alt=media&token=b3c28f73-331d-4c63-9d6b-37a528615d1d",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 6,
+      "name": "Pañuelos de Seda",
+      "offer": false,
+      "category": "Pañuelos",
+      "color": ["rosa"],
+      "stock": 1,
+      "price": 1800,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FCrystal%20%26%20Moon%20Layered%20Necklace.jpeg?alt=media&token=b3c28f73-331d-4c63-9d6b-37a528615d1d",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 7,
+      "name": "Collar de Cadena Doble",
+      "offer": false,
+      "category": "Pañuelos",
+      "type": "Acero Dorado",
+      "stock": 1,
+      "price": 5000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FChunky%20Large%20Link%20Gold%20Chain%20Necklace-Carabiner%20Spring%20Lock%20Clasp-Puffed%20Link%20Chain%20Necklace%20-Choker%20Chain%20Necklace%20-%2040.jpeg?alt=media&token=652a9c82-da90-421c-a69f-364304111fe7",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    },
+    {
+      "id": 8,
+      "name": "Anillo de Cadena",
+      "offer": false,
+      "category": "Anillos",
+      "type": "Acero Dorado",
+      "stock": 1,
+      "price": 5000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/fv-showroom.appspot.com/o/Productos%20(Ropa)%2FAnillo%20Leah.jpeg?alt=media&token=0878f615-a7a1-4826-a21e-f3d9ab78e395",
+      "description": "El tono azul agrega un toque de serenidad y versatilidad a tu atuendo. El diseño oversize proporciona una silueta amplia y cómoda, creando un equilibrio entre comodidad y estilo. Puedes llevarla como una camisa de vestir o darle un toque más casual al combinarla con pantalones o leggings ajustados."
+    }
+  ]
+}
