@@ -1,5 +1,5 @@
 const fs = require("fs");
-const { Producto } = require("../../db");
+const { Producto } = require("./db");
 
 fs.readFile("back/src/utils/json/ropa.json", "utf8", (err, data) => {
   if (err) {
